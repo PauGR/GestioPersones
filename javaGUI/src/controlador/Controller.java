@@ -19,7 +19,6 @@ import view.VistaPrincipal;
 import view.VistaRegistre;
 
 public class Controller {
-
 	private VistaPrincipal vistaPrincipal;
 	private VistaRegistre vistaRegistre;
 	private Model model;
